@@ -145,9 +145,9 @@ PLAYER:
 
 # 📈 PLAYER STATISTICS
 
-<img src="https://github-readme-stats.vercel.app/api?username=STEVAN1310&show_icons=true&theme=tokyonight&bg_color=050816&title_color=52F7FF&icon_color=FC931F&text_color=FFFFFF&hide_border=true"/>
+<img src="https://github-stats-extended.vercel.app/api?username=STEVAN1310&show_icons=true&theme=tokyonight&bg_color=050816&title_color=52F7FF&icon_color=FC931F&text_color=FFFFFF&hide_border=true" width="50%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=STEVAN1310&layout=compact&theme=tokyonight&bg_color=050816&title_color=52F7FF&text_color=FFFFFF&hide_border=true"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=STEVAN1310&layout=compact&theme=tokyonight&bg_color=050816&title_color=52F7FF&text_color=FFFFFF&hide_border=true" width="40%" />
 
 <img src="https://streak-stats.demolab.com?user=STEVAN1310&theme=tokyonight&background=050816&ring=FC931F&fire=52F7FF&hide_border=true"/>
 
@@ -168,7 +168,5 @@ PLAYER:
 <br/>
 
 `PLAYER STATUS: ALWAYS LEARNING`
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FC931F,50:087F8C,100:050816&height=130&section=footer"/>
 
 </div>

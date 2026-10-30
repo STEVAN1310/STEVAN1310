@@ -1,119 +1,174 @@
 
 <div align="center">
 
-# ⚡ STEVAN QUIJANO
+<h2>STEVAN</h2>
 
-### `FULL-STACK DEVELOPER | JAVA | CYBERSECURITY`
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Programador escribiendo código">
+# 🎮 PLAYER 01 — STEVAN QUIJANO
 
-<br>
+`CLASS: FULL-STACK DEVELOPER`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=52F7FF&center=true&vCenter=true&width=650&lines=Building+solutions+with+code...;Learning+Java+%26+Full+Stack+Development;Cybersecurity+%7C+Problem+Solving;Turning+ideas+into+reality+%F0%9F%9A%80)](https://git.io/typing-svg)
+`LEVEL: JUNIOR DEVELOPER`
 
-<br>
+`LOCATION: BOGOTÁ, COLOMBIA 🇨🇴`
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/STEVAN1310)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-stevan-quijano-perilla-bb9a67232/)
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=3000&pause=1000&color=52F7FF&center=true&vCenter=true&width=600&lines=INITIALIZING+PLAYER...;LOADING+SKILLS...;WELCOME+TO+MY+WORLD."/>
 
 </div>
 
 ---
 
-## 👨‍💻 ABOUT ME
+<div align="center">
 
-```javascript
-const stevan = {
-    name: "Luis Stevan Quijano Perilla",
-    role: "Junior Full-Stack Developer",
-    location: "Bogotá, Colombia 🇨🇴",
-    education: "Systems Engineering",
-    background: ["Cybersecurity", "IT Infrastructure"],
-    currentlyLearning: ["Java", "JavaScript", "Full-Stack"],
-    interests: [
-        "Software Development",
-        "Cybersecurity",
-        "Problem Solving",
-        "Technology"
-    ],
-    mindset: "Always learning, always building."
-};
+# 🧬 CHARACTER PROFILE
+
+</div>
+
+> PLAYER BIO
+
+Soy Stevan, desarrollador en formación con experiencia en ciberseguridad, análisis de información e infraestructura TIC.
+
+Mi misión es transformar problemas reales en soluciones tecnológicas funcionales, seguras y eficientes.
+
+```yaml
+PLAYER:
+  Name: Luis Stevan Quijano Perilla
+  Class: Full-Stack Developer
+  Specialty: Java & Cybersecurity
+  Location: Colombia
+  Status: ONLINE
+  Current_Mission: Become a Full-Stack Developer
 ```
 
-I am a technology enthusiast with experience in cybersecurity,
-information analysis and IT infrastructure.
-
-Currently developing my skills in Full-Stack development with Java,
-building applications and exploring new technologies.
-
-**My goal:** Create functional, secure and meaningful technological solutions.
-
 ---
-
-## ⚔️ TECH STACK
 
 <div align="center">
 
-### LANGUAGES
-<img src="https://skillicons.dev/icons?i=java,js,html,css" />
+# 📊 CHARACTER STATS
 
-### TOOLS & TECHNOLOGIES
-<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,spring" />
+| ATTRIBUTE | SKILL |
+|:---|:---|
+| 🧠 Analytical Thinking | Problem Analysis |
+| 🔐 Cybersecurity | Information Security |
+| ⚙️ Problem Solving | Solution Design |
+| 💻 Development | Full-Stack Learning |
+| 📚 Adaptability | Continuous Learning |
 
 </div>
 
 ---
 
-## 🚀 FEATURED PROJECTS
-
 <div align="center">
 
-[![GOD OF TASKS](https://github-readme-stats.vercel.app/api/pin/?username=STEVAN1310&repo=REPOSITORIO_GOD_OF_TASKS&theme=tokyonight&border_color=52F7FF)](https://github.com/STEVAN1310)
+# 🌳 SKILL TREE
 
-[![Fast Grill](https://github-readme-stats.vercel.app/api/pin/?username=STEVAN1310&repo=REPOSITORIO_FAST_GRILL&theme=tokyonight&border_color=FC931F)](https://github.com/STEVAN1310)
+### UNLOCKED SKILLS
+
+<img src="https://skillicons.dev/icons?i=html,css,js,java,git,github,vscode"/>
+
+### CURRENTLY EXPLORING
+
+<img src="https://skillicons.dev/icons?i=spring,mysql"/>
+
+`HTML` `CSS` `JAVASCRIPT` `JAVA` `GIT` `GITHUB`
 
 </div>
 
 ---
 
-## 📊 GITHUB STATISTICS
+<div align="center">
+
+# ⚔️ QUEST LOG
+
+### MAIN QUESTS
+
+</div>
+
+<details>
+<summary>⚔️ QUEST 01 — GOD OF TASKS</summary>
+
+**MISSION:** Build a gamified task management application.
+
+**OBJECTIVE:** Organize tasks, priorities, experience points and levels.
+
+**TYPE:** Web Development
+
+</details>
+
+<details>
+<summary>🔥 QUEST 02 — FAST GRILL</summary>
+
+**MISSION:** Create a restaurant landing page.
+
+**OBJECTIVE:** Build an attractive interface with a functional order presentation.
+
+**TYPE:** Frontend Development
+
+</details>
+
+<details>
+<summary>📅 QUEST 03 — GESTIÓN DE RESERVAS</summary>
+
+**MISSION:** Develop a reservation management solution.
+
+**OBJECTIVE:** Organize information and improve reservation processes.
+
+**TYPE:** Software Development
+
+</details>
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=STEVAN1310&show_icons=true&theme=tokyonight&border_color=52F7FF&hide_border=false&count_private=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=STEVAN1310&layout=compact&theme=tokyonight&border_color=FC931F" />
-
-<img src="https://streak-stats.demolab.com?user=STEVAN1310&theme=tokyonight&border=52F7FF" />
+[![Repositories](https://img.shields.io/badge/ENTER%20QUEST%20ARCHIVE-087F8C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/STEVAN1310?tab=repositories)
 
 </div>
 
 ---
 
-## 🧠 MY PHILOSOPHY
-
 <div align="center">
 
-### "ANALYZE. BUILD. IMPROVE."
+# 🏆 ACHIEVEMENTS
 
-*Every problem is an opportunity to create something better.*
+| ACHIEVEMENT | STATUS |
+|:---|:---:|
+| 🎓 Systems Engineering Student | UNLOCKED |
+| 🔐 Cybersecurity Experience | UNLOCKED |
+| 💻 Full-Stack Java Training | IN PROGRESS |
+| 🚀 Building Personal Projects | IN PROGRESS |
 
 </div>
 
 ---
 
-## 📡 CONNECT WITH ME
+<div align="center">
+
+# 📈 PLAYER STATISTICS
+
+<img src="https://github-readme-stats.vercel.app/api?username=STEVAN1310&show_icons=true&theme=tokyonight&bg_color=050816&title_color=52F7FF&icon_color=FC931F&text_color=FFFFFF&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=STEVAN1310&layout=compact&theme=tokyonight&bg_color=050816&title_color=52F7FF&text_color=FFFFFF&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=STEVAN1310&theme=tokyonight&background=050816&ring=FC931F&fire=52F7FF&hide_border=true"/>
+
+</div>
+
+---
 
 <div align="center">
 
-**Have a project, opportunity or idea? Let's connect!**
+# 📡 MISSION CONTROL
 
-[![LinkedIn](https://img.shields.io/badge/LET'S_CONNECT-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/luis-stevan-quijano-perilla-bb9a67232/)
+**READY FOR THE NEXT CHALLENGE?**
 
-[![GitHub](https://img.shields.io/badge/EXPLORE_MY_PROJECTS-GitHub-111111?style=for-the-badge&logo=github)](https://github.com/STEVAN1310)
+[![LinkedIn](https://img.shields.io/badge/CONNECT-LINKEDIN-087F8C?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/luis-stevan-quijano-perilla-bb9a67232/)
 
-<br>
+[![GitHub](https://img.shields.io/badge/EXPLORE%20MY%20WORLD-GITHUB-111824?style=for-the-badge&logo=github)](https://github.com/STEVAN1310)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111824,50:087F8C,100:FC931F&height=120&section=footer" />
+<br/>
+
+`PLAYER STATUS: ALWAYS LEARNING`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FC931F,50:087F8C,100:050816&height=130&section=footer"/>
 
 </div>

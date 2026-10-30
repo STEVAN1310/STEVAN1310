@@ -1,116 +1,119 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111824,50:087F8C,100:FC931F&height=200&section=header&text=STEVAN%20QUIJANO&fontSize=45&fontColor=52F7FF&animation=fadeIn&fontAlignY=35&desc=FULL-STACK%20DEVELOPER%20%7C%20JAVA%20%7C%20CYBERSECURITY&descAlignY=55&descSize=15" width="100%"/>
+# ⚡ STEVAN QUIJANO
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380"/>
+### `FULL-STACK DEVELOPER | JAVA | CYBERSECURITY`
 
-### `ANALYZE • BUILD • IMPROVE`
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Programador escribiendo código">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=52F7FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Building+digital+solutions;Java+%7C+JavaScript+%7C+Full+Stack;Always+learning+something+new."/>
+<br>
 
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=52F7FF&center=true&vCenter=true&width=650&lines=Building+solutions+with+code...;Learning+Java+%26+Full+Stack+Development;Cybersecurity+%7C+Problem+Solving;Turning+ideas+into+reality+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<a href="https://github.com/STEVAN1310">
-<img src="https://img.shields.io/badge/GitHub-STEVAN1310-111824?style=for-the-badge&logo=github&logoColor=52F7FF"/>
-</a>
-<a href="https://www.linkedin.com/in/luis-stevan-quijano-perilla-bb9a67232/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-087F8C?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/STEVAN1310)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-stevan-quijano-perilla-bb9a67232/)
 
 </div>
 
 ---
-
-<div align="center">
 
 ## 👨‍💻 ABOUT ME
 
-</div>
+```javascript
+const stevan = {
+    name: "Luis Stevan Quijano Perilla",
+    role: "Junior Full-Stack Developer",
+    location: "Bogotá, Colombia 🇨🇴",
+    education: "Systems Engineering",
+    background: ["Cybersecurity", "IT Infrastructure"],
+    currentlyLearning: ["Java", "JavaScript", "Full-Stack"],
+    interests: [
+        "Software Development",
+        "Cybersecurity",
+        "Problem Solving",
+        "Technology"
+    ],
+    mindset: "Always learning, always building."
+};
+```
 
-I'm **Luis Stevan Quijano Perilla**, a Junior Full-Stack Developer in training from Bogotá, Colombia 🇨🇴.
+I am a technology enthusiast with experience in cybersecurity,
+information analysis and IT infrastructure.
 
-My background in cybersecurity and IT infrastructure has helped me develop an analytical mindset, attention to detail and a strong approach to problem-solving.
+Currently developing my skills in Full-Stack development with Java,
+building applications and exploring new technologies.
 
-Currently, I'm focused on Full-Stack development with Java, creating functional, secure and user-centered applications.
-
-<div align="center">
-
-### ⚡ MY MINDSET
-
-`ANALYTICAL` • `TECHNOLOGICAL` • `RESOLUTIVE`
-
-</div>
+**My goal:** Create functional, secure and meaningful technological solutions.
 
 ---
 
+## ⚔️ TECH STACK
+
 <div align="center">
 
-## 🛠️ TECHNOLOGIES & TOOLS
-
 ### LANGUAGES
-
 <img src="https://skillicons.dev/icons?i=java,js,html,css" />
 
-### TOOLS
-
+### TOOLS & TECHNOLOGIES
 <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,spring" />
 
 </div>
 
 ---
 
-<div align="center">
-
 ## 🚀 FEATURED PROJECTS
 
-### ⚔️ GOD OF TASKS
-Gamified task management application.
+<div align="center">
 
-### 🍔 FAST GRILL
-Restaurant landing page and ordering interface.
+[![GOD OF TASKS](https://github-readme-stats.vercel.app/api/pin/?username=STEVAN1310&repo=REPOSITORIO_GOD_OF_TASKS&theme=tokyonight&border_color=52F7FF)](https://github.com/STEVAN1310)
 
-### 📅 GESTIÓN DE RESERVAS
-Web application for reservation management.
-
-Explore my repositories:
-
-<a href="https://github.com/STEVAN1310?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20PROJECTS-087F8C?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+[![Fast Grill](https://github-readme-stats.vercel.app/api/pin/?username=STEVAN1310&repo=REPOSITORIO_FAST_GRILL&theme=tokyonight&border_color=FC931F)](https://github.com/STEVAN1310)
 
 </div>
 
 ---
 
+## 📊 GITHUB STATISTICS
+
 <div align="center">
 
-## 📊 GITHUB ANALYTICS
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=STEVAN1310&show_icons=true&theme=tokyonight&border_color=52F7FF&hide_border=false&count_private=true" />
 
-<img width="90%" src="https://github-readme-stats.vercel.app/api?username=STEVAN1310&show_icons=true&theme=tokyonight&hide_border=true&bg_color=111824&title_color=52F7FF&icon_color=FC931F&text_color=FFFFFF"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=STEVAN1310&layout=compact&theme=tokyonight&border_color=FC931F" />
 
-<img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=STEVAN1310&layout=compact&theme=tokyonight&hide_border=true&bg_color=111824&title_color=52F7FF&text_color=FFFFFF"/>
-
-<img width="90%" src="https://streak-stats.demolab.com?user=STEVAN1310&theme=tokyonight&hide_border=true&background=111824&ring=FC931F&fire=52F7FF&currStreakLabel=52F7FF"/>
+<img src="https://streak-stats.demolab.com?user=STEVAN1310&theme=tokyonight&border=52F7FF" />
 
 </div>
 
 ---
 
+## 🧠 MY PHILOSOPHY
+
 <div align="center">
 
-## 📡 LET'S CONNECT
+### "ANALYZE. BUILD. IMPROVE."
 
-**Open to learning, collaboration and new opportunities.**
+*Every problem is an opportunity to create something better.*
 
-<a href="https://www.linkedin.com/in/luis-stevan-quijano-perilla-bb9a67232/">
-<img src="https://img.shields.io/badge/LET'S%20TALK-LinkedIn-087F8C?style=for-the-badge&logo=linkedin"/>
-</a>
+</div>
 
-<br/><br/>
+---
 
-### `"Every line of code is a new opportunity to improve."`
+## 📡 CONNECT WITH ME
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FC931F,50:087F8C,100:111824&height=120&section=footer"/>
+<div align="center">
+
+**Have a project, opportunity or idea? Let's connect!**
+
+[![LinkedIn](https://img.shields.io/badge/LET'S_CONNECT-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/luis-stevan-quijano-perilla-bb9a67232/)
+
+[![GitHub](https://img.shields.io/badge/EXPLORE_MY_PROJECTS-GitHub-111111?style=for-the-badge&logo=github)](https://github.com/STEVAN1310)
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111824,50:087F8C,100:FC931F&height=120&section=footer" />
 
 </div>
